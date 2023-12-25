@@ -2,6 +2,7 @@
 
 namespace polymorphism
 {
+    //Have the Employee class from the previous drill inheret that interface and implement the Quit() method in any way i choose.
     public class Employee : IQuittable
     {
         public int Id { get; set; }
